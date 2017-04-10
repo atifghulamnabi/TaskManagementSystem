@@ -1,0 +1,29 @@
+D:\Personal staff\TaskManagementClient\TaskManagementClient\bin\Debug\TaskManagementClient.exe.config
+D:\Personal staff\TaskManagementClient\TaskManagementClient\bin\Debug\TaskManagementClient.exe
+D:\Personal staff\TaskManagementClient\TaskManagementClient\bin\Debug\TaskManagementClient.pdb
+D:\Personal staff\TaskManagementClient\TaskManagementClient\obj\Debug\TaskManagementClient.csprojResolveAssemblyReference.cache
+D:\Personal staff\TaskManagementClient\TaskManagementClient\obj\Debug\TaskManagementClient.exe
+D:\Personal staff\TaskManagementClient\TaskManagementClient\obj\Debug\TaskManagementClient.pdb
+D:\Personal staff\TaskManagementSystem\TaskManagementClient\TaskManagementClient\bin\Debug\TaskManagementClient.exe.config
+D:\Personal staff\TaskManagementSystem\TaskManagementClient\TaskManagementClient\obj\Debug\TaskManagementClient.exe
+D:\Personal staff\TaskManagementSystem\TaskManagementClient\TaskManagementClient\obj\Debug\TaskManagementClient.pdb
+D:\Personal staff\TaskManagementSystem\TaskManagementClient\TaskManagementClient\bin\Debug\TaskManagementClient.exe
+D:\Personal staff\TaskManagementSystem\TaskManagementClient\TaskManagementClient\bin\Debug\TaskManagementClient.pdb
+D:\Personal stuff\TaskManagementSystem\TaskManagementClient\TaskManagementClient\bin\Debug\TaskManagementClient.exe.config
+D:\Personal stuff\TaskManagementSystem\TaskManagementClient\TaskManagementClient\obj\Debug\TaskManagementClient.exe
+D:\Personal stuff\TaskManagementSystem\TaskManagementClient\TaskManagementClient\obj\Debug\TaskManagementClient.pdb
+D:\Personal stuff\TaskManagementSystem\TaskManagementClient\TaskManagementClient\bin\Debug\TaskManagementClient.exe
+D:\Personal stuff\TaskManagementSystem\TaskManagementClient\TaskManagementClient\bin\Debug\TaskManagementClient.pdb
+D:\Personal stuff\TaskManagementSystem\TaskManagementClient\TaskManagementClient\obj\Debug\TaskManagementClient.csprojResolveAssemblyReference.cache
+C:\Users\Vika\Downloads\TaskManagementSystem (1)\TaskManagementSystem\TaskManagementClient\TaskManagementClient\bin\Debug\TaskManagementClient.exe.config
+C:\Users\Vika\Downloads\TaskManagementSystem (1)\TaskManagementSystem\TaskManagementClient\TaskManagementClient\obj\Debug\TaskManagementClient.exe
+C:\Users\Vika\Downloads\TaskManagementSystem (1)\TaskManagementSystem\TaskManagementClient\TaskManagementClient\obj\Debug\TaskManagementClient.pdb
+C:\Users\Vika\Downloads\TaskManagementSystem (1)\TaskManagementSystem\TaskManagementClient\TaskManagementClient\bin\Debug\TaskManagementClient.exe
+C:\Users\Vika\Downloads\TaskManagementSystem (1)\TaskManagementSystem\TaskManagementClient\TaskManagementClient\bin\Debug\TaskManagementClient.pdb
+C:\Users\Vika\Downloads\TaskManagementSystem (1)\TaskManagementSystem\TaskManagementClient\TaskManagementClient\obj\Debug\TaskManagementClient.csprojResolveAssemblyReference.cache
+C:\Users\Atif\Documents\Visual Studio 2015\Projects\TaskManagementSystem\TaskManagementClient\TaskManagementClient\bin\Debug\TaskManagementClient.exe.config
+C:\Users\Atif\Documents\Visual Studio 2015\Projects\TaskManagementSystem\TaskManagementClient\TaskManagementClient\obj\Debug\TaskManagementClient.exe
+C:\Users\Atif\Documents\Visual Studio 2015\Projects\TaskManagementSystem\TaskManagementClient\TaskManagementClient\obj\Debug\TaskManagementClient.pdb
+C:\Users\Atif\Documents\Visual Studio 2015\Projects\TaskManagementSystem\TaskManagementClient\TaskManagementClient\bin\Debug\TaskManagementClient.exe
+C:\Users\Atif\Documents\Visual Studio 2015\Projects\TaskManagementSystem\TaskManagementClient\TaskManagementClient\bin\Debug\TaskManagementClient.pdb
+C:\Users\Atif\Documents\Visual Studio 2015\Projects\TaskManagementSystem\TaskManagementClient\TaskManagementClient\obj\Debug\TaskManagementClient.csprojResolveAssemblyReference.cache

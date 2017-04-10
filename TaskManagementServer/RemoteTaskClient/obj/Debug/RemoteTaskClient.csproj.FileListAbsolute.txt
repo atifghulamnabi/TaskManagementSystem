@@ -1,0 +1,5 @@
+D:\Personal staff\TaskManagementServer\RemoteTaskClient\bin\Debug\RemoteTaskClient.exe.config
+D:\Personal staff\TaskManagementServer\RemoteTaskClient\bin\Debug\RemoteTaskClient.exe
+D:\Personal staff\TaskManagementServer\RemoteTaskClient\bin\Debug\RemoteTaskClient.pdb
+D:\Personal staff\TaskManagementServer\RemoteTaskClient\obj\Debug\RemoteTaskClient.exe
+D:\Personal staff\TaskManagementServer\RemoteTaskClient\obj\Debug\RemoteTaskClient.pdb
